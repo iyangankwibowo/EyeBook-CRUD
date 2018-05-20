@@ -13,7 +13,7 @@
     <!-- Styles -->
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
 </head>
-<body style="background-color:">
+<body style="background-image: url('/img/bali.jpg')">
 
     <div id="app">
         <nav class="navbar navbar-default navbar-static-top" style="background-color:black">
